@@ -319,7 +319,7 @@ print("With 60% tax and a",cvt_money(sample_avg),"jackpot, the expected return o
 That's a lot of money!
 
 <figure>
-  <img src="/images/shocked.webp" alt="Doll turning shocked" style="width:25%">
+  <img src="/images/azusa-money.webp" alt="Doll turning shocked" style="width:25%">
   <figcaption>Source: <a href="https://giphy.com/gifs/shocked-face-meme-PtZzHZzuSmPCWxS5MJ"> Giphy</a> </figcaption>
 </figure>
 

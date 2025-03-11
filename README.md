@@ -464,6 +464,8 @@ Fortunately for us, $\sum_{i=2}^n \sim Binom(n-1,p)$ and furthermore, this has a
 
 $$ w \mathbb{E} \frac{1}{1 + \sum_{i=2}^n Z_i} = w * \frac{1-(1-p)^n}{np}$$
 
+A big thank you to my professor Cheng Mao for helping me derive this expected value.
+
 
 ```python
 try:

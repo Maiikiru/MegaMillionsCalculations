@@ -320,7 +320,7 @@ That's a lot of money!
 
 <figure>
   <img src="/images/azusa-money.webp" alt="Girl hypnotized by money" style="width:50%">
-  <figcaption>Source: <a href="https://giphy.com/gifs/shocked-face-meme-PtZzHZzuSmPCWxS5MJ"> Giphy</a> </figcaption>
+  <figcaption>Source: <a href="https://tenor.com/view/anime-money-gif-2779446348632709038"> Giphy</a> </figcaption>
 </figure>
 
 ### How big does the jackpot have to be in order for the lottery to be "worth" playing?

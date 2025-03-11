@@ -59,7 +59,7 @@ What we aim to do today is analyze this game and find compute some interesting r
 That was a lot of numbers.
 
 <figure>
-  <img src="/images/stewie_losing_mind.webp" alt="Baby going crazy." style="width:25%">
+  <img src="/images/stewie_losing_mind.webp" alt="Baby going crazy." style="width:50%">
   <figcaption>Source: <a href="https://giphy.com/gifs/family-guy-fox-family-guy-foxtv-3o6ZtaiPZNzrmRQ6YM"> Giphy</a> </figcaption>
 </figure>
 

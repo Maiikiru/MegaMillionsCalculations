@@ -32,8 +32,8 @@ What we aim to do today is analyze this game and find compute some interesting r
 | Mega Ball Only   	| 2.729861e-2 	| 2.729861%    	|
 
 ### Analysis
-- Probability of winning anything: 95.8324306242948%
-- Probability of winning nothing: 4.1675693757052%
+- Probability of winning nothing: 95.8324306242948%
+- Probability of winning anything: 4.1675693757052%
 - Probability of winning $100.00 or more: 0.0095679757052%
 - Sample mean is (average jackpot amount): $281,192,307.69
 - With a $281 Million dollar jackpot, the expected return on every ticket is:
@@ -232,12 +232,12 @@ def compute_proba_winning() -> float:
 
 total_prob:float = compute_proba_winning()
 
-print("Your odds of winning anything is",1-total_prob, "or",cvt_perc(1-total_prob))
-print("Your odds of winning nothing is",total_prob, "or",cvt_perc(total_prob))
+print("Your odds of winning nothing is",1-total_prob, "or",cvt_perc(1-total_prob))
+print("Your odds of winning anything is",total_prob, "or",cvt_perc(total_prob))
 ```
 
-    Your odds of winning anything is 0.958324306242948 or 95.8324306242948%
-    Your odds of winning nothing is 0.041675693757052 or 4.1675693757052%
+    Your odds of winning nothing is 0.958324306242948 or 95.8324306242948%
+    Your odds of winning anything is 0.041675693757052 or 4.1675693757052%
 
 
 ### How likely are you to win "decent" money?

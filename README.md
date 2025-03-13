@@ -6,6 +6,7 @@
 The Mega Millions is a popular lottery game played in 45 states. The rules of the game are simple:
 - Pick 5 balls without repeat from 1-70
 - Pick a "Mega Ball" from 1-25.
+- The order of the choices of the balls does not matter.
 
 Here is an example of a Mega Million drawing: <br>
 [![An example of the Mega Million Lottery Drawing](https://img.youtube.com/vi/Zf42ebKP3mA/0.jpg)](https://www.youtube.com/watch?v=Zf42ebKP3mA)
